@@ -377,6 +377,10 @@ input[type="email"] {
 
 @media screen and (max-width: 600px){
 
+    body{
+    overflow-x: hidden;
+    }
+    
     ul.nav-links{
         display: none;
         flex-direction: column;
